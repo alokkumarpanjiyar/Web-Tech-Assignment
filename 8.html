@@ -1,0 +1,20 @@
+<html>
+<head>
+<h1>Reverse of number</h1>
+</head>
+<body>
+Reverse of the number is 
+<script type="text/javascript" >
+var a=prompt("enter number ",a);
+a=parseInt (a);
+var b,temp=0;
+while(a>0)
+{
+b=a%10;
+a=parseInt(a/10);
+temp=temp*10+b;
+}
+document.write(temp);
+</script> 
+</body>
+</html>

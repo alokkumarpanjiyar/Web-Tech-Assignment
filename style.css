@@ -1,0 +1,48 @@
+
+td{
+	border-bottom: 1px solid rgb(116, 116, 116); padding: 9px;
+}
+a{
+	width:33.33%;
+	
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background: #000000 url(images/img05.jpg) repeat;
+	font-family: 'Abel', sans-serif;
+	font-size: 18px;
+	color: #5B5B5B;
+}
+
+h1, h2, h3 {
+	margin: 0;
+	padding: 0;
+	text-transform: uppercase;
+	font-weight: normal;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 200;
+	color: #CFCFCF;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+h2 {
+	font-size: 2.8em;
+}
+
+h3 {
+	font-size: 1.6em;
+}
+
+p, ul, ol {
+	margin-top: 0;
+	line-height: 180%;
+}
+
+ul, ol {
+}
+
